@@ -1,0 +1,6 @@
+{
+  "name": "xentrafi",
+  "private": true,
+  "packageManager": "pnpm@10",
+  "workspaces": ["apps/*", "packages/*"]
+}
