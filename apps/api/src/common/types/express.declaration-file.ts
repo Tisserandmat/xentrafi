@@ -1,5 +1,5 @@
 //importe express pour accéder à ses types
-import 'express';
+import 'express-serve-static-core';
 
 // le module de base d'Express
 declare module 'express-serve-static-core' {
